@@ -1,0 +1,12 @@
+# Ignore folders
+Data/
+dump/
+
+# Ignore virtual env
+venv/
+
+# Ignore cache
+__pycache__/
+
+# Ignore VS Code settings
+.vscode/

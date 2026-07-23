@@ -1,0 +1,110 @@
+[
+    {
+        "username": "intaglobal",
+        "no_of_posts": 1946,
+        "no_of_followers": 6851,
+        "no_of_following": 262,
+        "name": "INTA",
+        "account_type": "Nonprofit organization",
+        "bio": "The association of ™ professionals.\ninta.campsite.bio"
+    },
+    {
+        "username": "_anujsinghal",
+        "no_of_posts": 1785,
+        "no_of_followers": 681000,
+        "no_of_following": 248,
+        "name": "Anuj Singhal",
+        "account_type": "Digital creator",
+        "bio": "Managing Editor, CNBC-Awaaz. Most trusted and followed biz anchor in India\nLet’s talk about finance and life\nContact: Singhalanuj1010@gmail.com\nhindi.cnbctv18.com/market-gurukul"
+    },
+    {
+        "username": "code_flare",
+        "no_of_posts": 165,
+        "no_of_followers": 216,
+        "no_of_following": 10,
+        "name": "The Journey Notebook | Travel | Food Blogger",
+        "account_type": "Blogger",
+        "bio": "📍 Exploring places & phases of life 🌍\n.\n🍵 From chai breaks to flight takes ✈️\n.\n💫 Travel | Food | Daily life 🌸\nyoutube.com/@thejourneynotebook?si=Z1lPUAl-cPgHAP_a"
+    },
+    {
+        "username": "bangalore_tech_bro",
+        "no_of_posts": 402,
+        "no_of_followers": 12500,
+        "no_of_following": 890,
+        "name": "Rahul | HSR Hustler",
+        "account_type": "Entrepreneur",
+        "bio": "🚀 Building the next Unicorn in Fintech\n☕ 3rd Wave Coffee addict\n💻 Python | React | AI\n📍 HSR Layout, BLR\nlinktr.ee/rahulbuilds"
+    },
+    {
+        "username": "silkboard_survivor",
+        "no_of_posts": 55,
+        "no_of_followers": 1200,
+        "no_of_following": 50,
+        "name": "Priya D.",
+        "account_type": "Public Figure",
+        "bio": "🚦 Stuck in traffic since 2019\n🌧️ Loving the Bangalore weather, hating the cabs\n🐍 Data Scientist by day, meme maker by night\n📍 ORR\nbit.ly/my-traffic-rants"
+    },
+    {
+        "username": "startuphub_blr",
+        "no_of_posts": 2300,
+        "no_of_followers": 45000,
+        "no_of_following": 120,
+        "name": "Startup Hub Bangalore",
+        "account_type": "Media",
+        "bio": "🦄 News from the Silicon Valley of India\n📢 Funding alerts, Hiring trends, and Drama\n📩 DM for features\nstartuphub.blr/newsletter"
+    },
+    {
+        "username": "foodie_in_kora",
+        "no_of_posts": 890,
+        "no_of_followers": 5600,
+        "no_of_following": 400,
+        "name": "Sneha | Bangalore Eats",
+        "account_type": "Food & Drink",
+        "bio": "Aagrah to Truffles 🍔\nExploring Koramangala's cafe culture ☕\nDM for collabs\nhttps://www.google.com/search?q=zomato.com/users/sneha123"
+    },
+    {
+        "username": "venture_vikram",
+        "no_of_posts": 120,
+        "no_of_followers": 30000,
+        "no_of_following": 500,
+        "name": "Vikram | Angel Investor",
+        "account_type": "Investor",
+        "bio": "💸 Helping founders go 0 to 1\nEx-Google, Ex-Amazon\nInvesting in DeepTech & AI\n📍 Indiranagar\nvikram.vc/pitch-deck"
+    },
+    {
+        "username": "python_meetup_blr",
+        "no_of_posts": 60,
+        "no_of_followers": 3400,
+        "no_of_following": 10,
+        "name": "PyBangalore Community",
+        "account_type": "Community",
+        "bio": "🐍 Weekly meetups for Pythonistas\n📍 Cubbon Park | Sundays 4 PM\nCoding + Coffee + Community\nhttps://www.google.com/search?q=meetup.com/pybangalore"
+    },
+    {
+        "username": "indiranagar_gossip",
+        "no_of_posts": 300,
+        "no_of_followers": 8900,
+        "no_of_following": 20,
+        "name": "Indiranagar Spy",
+        "account_type": "Personal Blog",
+        "bio": "Not just about 100ft Road 🤫\nSpilling tea on the best brunches and worst landlords\nBengaluru\nhttps://www.google.com/search?q=medium.com/%40indiranagarspy"
+    },
+    {
+        "username": "ig_arbin07",
+        "no_of_posts": 50,
+        "no_of_followers": 33,
+        "no_of_following": 30,
+        "name": "aarbinnn",
+        "account_type": "Gamer",
+        "bio": "@dumb.arbin\n🎮: Banana『juice (IGL🥷)\nGamer never die, they just respawn🙂‍↔️"
+    },
+    {
+        "username": "katiasales2220",
+        "no_of_posts": 107,
+        "no_of_followers": 219,
+        "no_of_following": 1401,
+        "name": "Katia Sales",
+        "account_type": "Alfabetização e Reforço Escolar",
+        "bio": "Ensino Fundamental I e II\nPreparação para Escola Militar\nPortuguês e Matemática\nCursando Psicopedagogia Estácio"
+    }
+]

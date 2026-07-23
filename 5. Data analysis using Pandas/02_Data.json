@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "name": "Amit",
+    "age": 20,
+    "marks": 78,
+    "city": "Delhi"
+  },
+  {
+    "id": 2,
+    "name": "Ravi",
+    "age": 21,
+    "marks": 85,
+    "city": "Mumbai"
+  },
+  {
+    "id": 3,
+    "name": "Sneha",
+    "age": 19,
+    "marks": 92,
+    "city": "Delhi"
+  },
+  {
+    "id": 4,
+    "name": "Priya",
+    "age": 22,
+    "marks": 67,
+    "city": "Pune"
+  },
+  {
+    "id": 5,
+    "name": "Karan",
+    "age": 20,
+    "marks": 74,
+    "city": "Mumbai"
+  },
+  {
+    "id": 6,
+    "name": "Anjali",
+    "age": 21,
+    "marks": 88,
+    "city": "Delhi"
+  },
+  {
+    "id": 7,
+    "name": "Vikas",
+    "age": 23,
+    "marks": 59,
+    "city": "Pune"
+  }
+]

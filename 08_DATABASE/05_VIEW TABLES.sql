@@ -1,0 +1,33 @@
+SELECT * FROM STUDENTS;
+CREATE VIEW  TOP_STUNDETS AS 
+SELECT NAME,DEPARTMENT, GPA FROM STUDENTS
+WHERE GPA>8;
+
+SELECT *  FROM  TOP_STUNDETS;
+
+
+CREATE VIEW AllPeople AS
+SELECT name, department, city
+FROM Students
+
+UNION
+
+SELECT name, department, city
+FROM Alumni;
+
+SELECT  * FROM ALLPeople ;
+
+
+CREATE OR REPLACE VIEW TopStudents AS
+SELECT name, department, gpa
+FROM Students
+WHERE gpa > 9;
+
+CREATE OR REPLACE VIEW TOP_STUNDETS AS
+SELECT name,EMAIL ,department, gpa
+FROM Students
+WHERE gpa > 9;
+SELECT  * FROM TOP_STUNDETS;
+
+
+DROP VIEW TopStudents;              -- DELETE VIEW 
