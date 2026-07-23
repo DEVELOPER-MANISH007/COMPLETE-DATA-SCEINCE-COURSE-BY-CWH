@@ -1,4 +1,0 @@
-'hai','h','hu','hun','hn','ka','ki','ke','kr','krna','kya',
-    'tu','me','mai','mera','teri','ye','wo','bhi','to','se','ko',
-    'na','ha','haan','nahi','ni','ok','acha','achha','bhai','yaar',    'ji', 'toh', 'rha', 'di',
-    'nhi', 'ho', 'aa', 'hi', 'kon','waiting','le','de','pr','kl','kal'
